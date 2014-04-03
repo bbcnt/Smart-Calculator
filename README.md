@@ -14,3 +14,7 @@ Make sure that you update the information just below with the names of the two s
 ## Fork Information
 
 This repo has been forked by Amacher Julien and Brito Carvalho Bruno.
+
+**Update** : The implementation part is made by Bignens Julien and Brito Carvalho Bruno. As for the project in itself, it is contained in the DTC_Protocol branch, so you might have to switch branches before consulting the code.
+
+We've chosen to implement our own protocol, which you can find in the specification folder.
